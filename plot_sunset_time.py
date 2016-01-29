@@ -1,13 +1,14 @@
 import pandas as pd
-import datetime
+from datetime import datetime
 import sys
 
 DATAFILE = "sunrise_sunset_santa_cruz_2016"
+Header = []
 
 
 def main():
-    pass
-
+    df = pd.read_csv(DATAFILE, sep="  ")
+    print df.columns
 
 if __name__ == '__main__':
     main()

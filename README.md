@@ -1,3 +1,3 @@
 # SunsetTime
 ### First Plot
-![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![](https://raw.githubusercontent.com/MollyZhang/SunsetTime/master/figure_1.png)
